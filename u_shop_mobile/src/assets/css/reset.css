@@ -1,0 +1,153 @@
+body {
+    margin: 0;
+    font: 12px/1 "Microsoft YaHei", Tahoma, Arial, Helvetica, sans-serif;
+    word-break: break-all;
+    word-wrap: break-word;
+}
+
+p,
+dl,
+dd,
+ol,
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    font-weight: normal;
+}
+
+ul,
+li,
+ol {
+    list-style: none;
+}
+
+input {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+img {
+    border: none;
+    display: block;
+}
+
+button,
+input,
+textarea {
+    margin: 0;
+    padding: 0;
+    background: none;
+    border: none;
+    font-family: inherit;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+input:focus {
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+    color: #333333;
+}
+
+.clearfix {
+    *zoom: 1
+}
+
+.layout:after,
+.clearfix:after,
+.floor:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.clearDiv {
+    clear: both;
+    height: 0;
+    font-size: 0;
+    overflow: hidden;
+}
+
+i,
+em {
+    font-style: normal;
+}
+
+b,
+strong {
+    font-weight: normal;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.font_size_12 {
+    font-size: 12px;
+}
+
+.font_size_14 {
+    font-size: 14px;
+}
+.mglf_no {
+    margin-left: 0px !important;
+}
+.mgrg_no {
+    margin-right: 0px !important;
+}
+.mgtp_no {
+    margin-top: 0px !important;
+}
+.mgbt_no {
+    margin-bottom: 0px !important;
+}
+.mglf_14 {
+    margin-left: 14px !important;
+}
+.matp_15 {
+    margin-top: 15px !important;
+}
+.matp_20 {
+    margin-top: 20px !important;
+}
+.mgtp_40 {
+    margin-top: 40px !important;
+}
+.mglf_28 {
+    margin-left: 28px !important;
+}
+.bodrg_no {
+    border-right: 0 !important;
+}
+.bodbt_no {
+    border-bottom: 0 !important;
+}
